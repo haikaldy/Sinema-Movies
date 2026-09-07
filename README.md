@@ -46,7 +46,7 @@ This project was originally developed as a university group project for **CSC584
 
 ### Customer Movie Dashboard
 
-![Movie Dashboard](screenshots/dashboard.png)
+![Movie Dashboard](screenshots/list.png)
 
 ### Seat Selection
 
