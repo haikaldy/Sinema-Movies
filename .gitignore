@@ -1,0 +1,29 @@
+# Maven
+target/
+
+# Java
+*.class
+*.jar
+*.war
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# NetBeans
+nb-configuration.xml
+nbactions.xml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
