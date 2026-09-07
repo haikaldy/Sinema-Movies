@@ -155,24 +155,6 @@ The demo database contains sample movies, showtimes, users, bookings, and seat a
 
 ---
 
-## 🔄 Booking Flow
-
-Login
-  ↓
-Browse Movies
-  ↓
-Choose Showtime
-  ↓
-Select Seats
-  ↓
-Select Food & Drinks
-  ↓
-Checkout
-  ↓
-Receipt
-
----
-
 ## 📌 Notes
 
 The project uses Payara Micro, so a separate full application server installation is not required.
