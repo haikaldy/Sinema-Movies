@@ -135,3 +135,48 @@ Sinema-Movies/
 ├── pom.xml
 ├── .gitignore
 └── README.md
+
+```
+---
+
+## 🗄️ Database
+
+The application contains tables for:
+Users
+Admins
+Movies
+Showtimes
+Seats
+Snacks
+Bookings
+Booking-seat relationships
+
+The demo database contains sample movies, showtimes, users, bookings, and seat availability so the application can be tested immediately after setup.
+
+---
+
+## 🔄 Booking Flow
+
+Login
+  ↓
+Browse Movies
+  ↓
+Choose Showtime
+  ↓
+Select Seats
+  ↓
+Select Food & Drinks
+  ↓
+Checkout
+  ↓
+Receipt
+
+---
+
+## 📌 Notes
+
+The project uses Payara Micro, so a separate full application server installation is not required.
+The included database is intended for development, testing, and demonstration.
+Local database credentials may need to be changed depending on your MySQL configuration.
+This repository is primarily intended for educational and portfolio purposes.
+
